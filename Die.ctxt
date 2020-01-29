@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Die
+comment0.text=\n\ Rolls\ 2\ 6-sided\ die\ and\ prints\ them\ out\!\n\n\ @author\ Dylan\ Boyer\n\ @version\ 2020-1-16\n
+comment1.params=
+comment1.target=int\ roll()
+comment2.params=
+comment2.target=int\ getResult()
+numComments=3
